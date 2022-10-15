@@ -10,7 +10,7 @@ en este proyecto se busca aprende de Js y de React Js
 -Andres Parra
 - Nelsonlc86
 - Sebastian Meneses
-- JhonSandoval
+- [Jhon Sandoval](https://github.com/Yursksf1/diplomado_react_js)
 - EduCnz4
 - Diego Meneses
 Wilfer Acosta
